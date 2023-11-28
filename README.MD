@@ -8,6 +8,9 @@ Welcome to the Hotel Reservation Churn Prediction Project. In this initiative, w
 
 **Dataset Choice**: The foundation of our analysis is a meticulously curated dataset obtained from two prominent hotel categories: resort and city hotels situated in Portugal. Sourced from Property Management System (PMS) SQL databases, this dataset comprises 31 variables and spans an extensive 119,390 observations. Encompassing bookings from July 1, 2015, to August 31, 2017, it provides a comprehensive snapshot of the booking landscape, encapsulating both successful check-ins and instances of cancellations.
 
+For Dataset download [Link](https://bit.ly/2WvQbhJ) and further explanation of the dataset's columns, view the [Link](https://github.com/sha-ddie/Hotel-Reservation-Churning-Prediction/blob/main/data/columns.md)
+
+
 ## Modeling
 In the "Modeling" phase, we delved into building predictive models to anticipate and mitigate reservation cancellations. We trained six distinct machine learning models, each with its unique strengths and characteristics. These models were trained on a comprehensive dataset encompassing various features that influence reservation cancellations.
 
